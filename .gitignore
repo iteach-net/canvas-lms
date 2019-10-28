@@ -81,5 +81,3 @@ docker-compose.local.*
 .nyc_output
 coverage-jest
 coverage-karma
-
-IteachCanvasLms.code-workspace
